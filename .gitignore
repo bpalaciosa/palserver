@@ -1,3 +1,10 @@
 *
-!Pal/Saved/
+!/Pal/
+!/Pal/Saved/
+!/Pal/Saved/*
+!/Pal/Saved/*/*
+!/Pal/Saved/*/*/*
+!/Pal/Saved/*/*/*/*
+!/Pal/Saved/*/*/*/*/*
 !DefaultPalWorldSettings.ini
+/Pal/Saved/Config/CrashReportClient/

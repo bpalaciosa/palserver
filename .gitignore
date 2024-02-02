@@ -1,1 +1,3 @@
-﻿Config/CrashReportClient
+*
+!Pal/Saved/
+!DefaultPalWorldSettings.ini
